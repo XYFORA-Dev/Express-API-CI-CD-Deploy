@@ -4,9 +4,9 @@
   "license": "ISC",
   "author": "Ahmed Saleem Shaikh",
   "type": "module",
-  "main": "src/index.js",
+  "main": "api/index.js",
   "scripts": {
-    "dev": "node src/index.js"
+    "dev": "node api/index.js"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
